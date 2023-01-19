@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tejasrk94/my-app/static/css/main.b7b1ee26.css",
+    "main.js": "/tejasrk94/my-app/static/js/main.527eb882.js",
+    "static/js/787.a9120f67.chunk.js": "/tejasrk94/my-app/static/js/787.a9120f67.chunk.js",
+    "index.html": "/tejasrk94/my-app/index.html",
+    "main.b7b1ee26.css.map": "/tejasrk94/my-app/static/css/main.b7b1ee26.css.map",
+    "main.527eb882.js.map": "/tejasrk94/my-app/static/js/main.527eb882.js.map",
+    "787.a9120f67.chunk.js.map": "/tejasrk94/my-app/static/js/787.a9120f67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7b1ee26.css",
+    "static/js/main.527eb882.js"
+  ]
+}
